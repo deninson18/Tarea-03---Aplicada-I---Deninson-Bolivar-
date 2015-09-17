@@ -75,6 +75,7 @@
             // 
             this.gradoTextBox1.Location = new System.Drawing.Point(22, 128);
             this.gradoTextBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.gradoTextBox1.MaxLength = 32766;
             this.gradoTextBox1.Name = "gradoTextBox1";
             this.gradoTextBox1.Size = new System.Drawing.Size(294, 26);
             this.gradoTextBox1.TabIndex = 3;
